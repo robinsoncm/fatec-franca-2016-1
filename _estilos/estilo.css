@@ -88,6 +88,10 @@ section a:visited {
   text-decoration: wavy;
 }
 
+article {
+  margin-bottom: 60pt;
+}
+
 article h1 {
   font-family: 'Fonte Títulos', Verdana, Arial, sans-serif;
   font-size: 200%;
